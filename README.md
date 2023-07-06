@@ -2,6 +2,7 @@
 - 🔭 Hi, I'm Asuan!
 - 🌱 I'm a graduate student at CQU and currently working on Medicinal Chemistry.
 - 👯 I’m looking to collaborate on CADD.
+- 💞️ blog: https://asuanc.github.io/
 - 📫 Email: chenmingxuan0110@163.com
   
 <!--
